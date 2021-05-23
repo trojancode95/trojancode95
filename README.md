@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+
+
 <!--
 **trojancode95/trojancode95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trojancode95)](https://github.com/trojancode95/github-readme-stats)
 
-Here are some ideas to get you started:
+
+-->
 
 - 🔭 I’m currently doing **Internship at Mentor Graphics.**
 - 🌱 I’m currently **learning Python Libraries.**
