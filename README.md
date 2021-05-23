@@ -24,12 +24,6 @@
 ![Akhilesh's github stats](https://github-readme-stats.vercel.app/api?username=trojancode95&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
 
 
-
-#### My week at a glance
-
-![My week at a glance](https://github-readme-stats.vercel.app/api/wakatime?username=trojancode95&langs_count=5&theme=radical&layout=compact)
-
-
 <h3> Say Hi! </h3>
 
 <p>
