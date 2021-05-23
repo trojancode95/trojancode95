@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/trojancode95" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/telegram.png" alt="telegram" height="30" width="40" /></a>
-<a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:2018ugec095@nitjsr.ac.in" ><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="gmail" height="30" width="40" ></a>
+<a href="https://t.me/trojancode95" target="_blank"><img align="center" src="icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:2018ugec095@nitjsr.ac.in" ><img align="center" src="icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
 <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/trojancode95" target="_blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/the_akhilesh_pandey" target="_blank"><img align="center" src="icons/instagram.svg" alt="instagram" height="30" width="40" /></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://www.codechef.com/users/trojan_code" target="_blank"><img align="center" src="icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
