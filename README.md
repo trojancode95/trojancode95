@@ -24,6 +24,7 @@
   
 - 😄 ⚡ Fun fact: **I either code in total silence or with music on all day!**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/trojancode95" target="_blank"><img align="center" src="icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:2018ugec095@nitjsr.ac.in" ><img align="center" src="icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
