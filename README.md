@@ -23,5 +23,10 @@
 
 ![Akhilesh's github stats](https://github-readme-stats.vercel.app/api?username=trojancode95&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trojancode95&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="Akhilesh-Kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trojancode95&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="Akhilesh-Kumar" /></p>
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trojancode95&repo=Basic-Linux-Shell)](https://github.com/trojancode95/Basic-Linux-Shell) -->
+
 
 
