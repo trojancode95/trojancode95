@@ -24,8 +24,4 @@
 ![Akhilesh's github stats](https://github-readme-stats.vercel.app/api?username=trojancode95&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
 
 
-<h3> Say Hi! </h3>
-
-<p>
-
 
