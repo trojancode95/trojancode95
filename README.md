@@ -13,7 +13,9 @@
 - 🌱 I’m currently **learning Python Libraries.**
 - 👯 I’m looking to collaborate on some **open source project.**
 - 💬 Ask me about : **Data structure and algorithms, Competitive Programming.**
-- 📫 How to reach me: **2018ugec095@nitjsr.ac.in**  **https://www.linkedin.com/in/trojancode95/**
+- 📫 How to reach me: 
+  Gmail : **2018ugec095@nitjsr.ac.in**  
+  Linkedin : **https://www.linkedin.com/in/trojancode95/**
 - 😄 ⚡ Fun fact: **I either code in total silence or with music on all day!**
 
 ### I love data, here's some!
