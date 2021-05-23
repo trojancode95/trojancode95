@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on some **open source project involving backend or machine learning tasks.**
 - 💬 Ask me about : **Data structure and algorithms, Competitive Programming.**
 - 📫 <h3>Connect with me:</h3>  
-<p align="left">
+- <p align="left">
 <a href="https://t.me/trojancode95" target="_blank"><img align="center" src="icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:2018ugec095@nitjsr.ac.in" ><img align="center" src="icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
 <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/trojancode95" target="_blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" height="30" width="40" /></a>
