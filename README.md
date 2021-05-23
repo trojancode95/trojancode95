@@ -18,6 +18,7 @@
   Gmail : **&nbsp; <a href="mailto:hagerdakroury@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>2018ugec095@nitjsr.ac.in**  
   Linkedin : **&nbsp; <a href="https://www.linkedin.com/in/trojancode95/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>https://www.linkedin.com/in/trojancode95/**
   
+  
 - 😄 ⚡ Fun fact: **I either code in total silence or with music on all day!**
 
 ### I love data, here's some!
