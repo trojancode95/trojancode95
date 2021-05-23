@@ -9,7 +9,7 @@
 
 
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trojancode95&label=Profile%20views&color=f53f2b&style=plastic" alt="Akhilesh-Kumar" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojancode95&label=Profile%20views&color=f53f2b&style=plastic" alt="Akhilesh-Kumar" /> </p>
 - 👨‍💻 All of my projects are available at my <a href="https://trojancode.me" target="_blank">portfolio</a>
 
 - 🔭 I’m currently doing **Internship at Mentor Graphics.**
