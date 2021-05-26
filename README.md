@@ -20,6 +20,18 @@
 - 👨‍💻 You can fix a meeting with me at **https://calendly.com/trojancode!**
 - 😄 ⚡ Fun fact: **I either code in total silence or with music on all day!**
 
+<h2 align="center"> 🔭 Technology Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+</p>
+
 ### I love data, here's some!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trojancode95&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="Akhilesh-Kumar" /></p>
