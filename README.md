@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋🏻, I'm Akhilesh Kumar</h1>
 <h3 align="center">A passionate and Enthusiastic Engineer from NIT Jamshedpur, India</h3>
+<img src="https://i.imgur.com/Eu3NtrU.png">
 
 <br>
 
