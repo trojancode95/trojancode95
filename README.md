@@ -11,7 +11,8 @@
 
 -->
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojancode95&label=Profile%20views&color=f53f2b&style=plastic" alt="Akhilesh-Kumar" /> </p>
-- 👨‍💻 All of my projects are available at my <a href="https://trojancode.me" target="_blank">portfolio</a>
+- 👨‍💻 All of my projects are available at my [![website](https://img.shields.io/badge/Website-Portfolio-2bbc8a?style=for-the-badge&logo=firefox&color=2bbc8a&logoColor=white)](https://trojancode.me/)
+
 
 - 🔭 I’m currently doing **Internship at Mentor Graphics.**
 - 🌱 I’m currently **learning Python Libraries.**
